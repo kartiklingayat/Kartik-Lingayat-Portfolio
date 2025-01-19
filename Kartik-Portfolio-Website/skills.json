@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Cloud Computing",
+        "icon": "https://img.icons8.com/?size=100&id=11871&format=png&color=000000"
+    },
+    {
+        "name": "AWS (Amazon Web Services)",
+        "icon": "https://img.icons8.com/?size=100&id=33039&format=png&color=000000"
+    },
+    {
+        "name": "Microsoft Azure",
+        "icon": "https://img.icons8.com/color/48/000000/azure-1.png"
+    },
+    {
+        "name": "Google Cloud Platform (GCP)",
+        "icon": "https://img.icons8.com/?size=100&id=WHRLQdbEXQ16&format=png&color=000000"
+    },
+    {
+        "name": "JavaScript",
+        "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
+    },
+    {
+        "name": "Python",
+        "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
+    },
+    {
+        "name": "C Programming Language",
+        "icon": "https://img.icons8.com/color/48/000000/c-programming.png"
+    },
+    {
+        "name": "PHP",
+        "icon": "https://img.icons8.com/offices/48/000000/php-logo.png"
+    },
+    {
+        "name": "Web Development",
+        "icon": "https://img.icons8.com/?size=100&id=13662&format=png&color=000000"
+    },
+    {
+        "name": "Cloud Security",
+        "icon": "https://img.icons8.com/?size=100&id=13564&format=png&color=000000"
+    },
+    {
+        "name": "Cisco",
+        "icon": "https://img.icons8.com/?size=100&id=utiKBYyMZ6Ba&format=png&color=000000"
+    },
+    {
+        "name": "Database",
+        "icon": "https://img.icons8.com/?size=100&id=KZHjwwenS7oK&format=png&color=000000"
+    }
+]

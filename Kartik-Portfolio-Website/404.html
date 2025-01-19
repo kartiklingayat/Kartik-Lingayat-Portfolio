@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/assets/css/404.css">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <!-- Favicon -->
+    <link id='favicon' rel="shortcut icon" href="/assets/images/favicon.png" type="image/x-png">
+    <title>Got Lost! Page Not Found</title>
+</head>
+<body oncontextmenu="return false">
+
+<!-- navbar starts -->
+<header>
+        <a href="/" class="logo"><i class="fab fa-node-js"></i> Jigar</a>
+
+        <div id="menu" class="fas fa-bars"></div>
+        <nav class="navbar">
+            <ul>
+            <li><a href="/#home">Home</a></li>
+            <li><a href="/#about">About</a></li>
+            <li><a href="/#skills">Skills</a></li>
+            <li><a href="/#education">Education</a></li>
+            <li><a href="/#work">Work</a></li>
+            <li><a href="/#experience">Experience</a></li>
+            <li><a href="/#contact">Contact</a></li>
+            <li><a href="#chatgpt" class="chatgpt-btn" onclick="openChatGPTModal()">ChatGPT</a></li>
+            </ul>
+        </nav>
+</header>
+<!-- navbar ends -->
+<!-- ChatGPT Modal -->
+<div class="chatgpt-modal" id="chatgpt-modal" style="display:none; position:fixed; top:10%; left:10%; width:80%; height:70%; background:white; box-shadow:0 4px 8px rgba(0,0,0,0.2); border-radius:10px; z-index:1000;">
+    <button style="position:absolute; top:10px; right:10px; background:red; color:white; border:none; border-radius:50%; width:30px; height:30px;" onclick="closeChatGPTModal()">×</button>
+    <iframe src="https://kartikgpt.netlify.app/index.html" style="width:100%; height:100%; border:none;"></iframe>
+  </div>
+  
+  <!-- JavaScript for ChatGPT Modal -->
+  <script>
+    function openChatGPTModal() {
+        document.getElementById('chatgpt-modal').style.display = 'block';
+    }
+    function closeChatGPTModal() {
+        document.getElementById('chatgpt-modal').style.display = 'none';
+    }
+  </script>
+<!-- 404 section start -->
+<section class="page_404">
+        <div class="container">
+          <div class="wrapper">
+            <h1 class="text-center ">404</h1>
+          </div>
+          
+          <div class="msg">
+          <h3>Looks like you're lost</h3>
+          <p>The page you are looking for is not available!</p>
+           
+          <div class="backbtn">
+            <a href="/" class="btn">
+                <i class="fas fa-arrow-left"></i>
+                <span>Back to Home</span>
+          </a>
+          </div>
+
+          </div>
+        </div>
+</section>
+<!-- 404 section end -->
+
+<!-- footer section starts -->
+<section class="footer">
+
+    <div class="box-container">
+  
+        <div class="box">
+            <h3>Kartik Lingayat</h3>
+            <p> <br/> <br/> </p>
+        </div>
+  
+        <div class="box">
+            <h3>quick links</h3>
+            <a href="#home"><i class="fas fa-chevron-circle-right"></i> home</a>
+            <a href="#about"><i class="fas fa-chevron-circle-right"></i> about</a>
+            <a href="#skills"><i class="fas fa-chevron-circle-right"></i> skills</a>
+            <a href="#education"><i class="fas fa-chevron-circle-right"></i> education</a>
+            <a href="#work"><i class="fas fa-chevron-circle-right"></i> work</a>
+            <a href="#experience"><i class="fas fa-chevron-circle-right"></i> experience</a>
+            
+        </div>
+  
+        <div class="box">
+            <h3>contact info</h3>
+            <p> <i class="fas fa-phone"></i>+91 9322518815</p>
+            <p> <i class="fas fa-envelope"></i>kartiklingayat019@gmail.com</p>
+            <p> <i class="fas fa-map-marked-alt"></i>Bavdhan, Pune, India-4111021</p>
+            <div class="share">
+  
+                <a href="https://www.linkedin.com/in/kartik-lingayat-36a627286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" class="fab fa-linkedin" aria-label="LinkedIn" target="_blank"></a>
+                <a href="https://github.com/kartiklingayat" class="fab fa-github" aria-label="GitHub" target="_blank"></a>
+                <a href="mailto:kartiklingayat019@gmail.com" class="fas fa-envelope" aria-label="Mail" target="_blank"></a>
+                <a href="https://www.instagram.com/hardinscott__ft?igsh=MW12eHp2cnA3bWlpMA==" class="fab fa-instagram" aria-label="Instagram" target="_blank"></a>
+                
+            </div>
+        </div>
+    </div>
+  
+    <h1 class="credit">Designed with <i class="fa fa-heart pulse"></i> by <a href="https://www.linkedin.com/in/kartik-lingayat-36a627286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"> Kartik Lingayat</a></h1>
+  
+  </section>
+  <!-- footer section ends -->
+
+<!-- ==== ALL MAJOR JAVASCRIPT CDNS STARTS ==== -->
+
+<!-- jquery cdn -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+<!-- ==== ALL MAJOR JAVASCRIPT CDNS ENDS ==== -->
+
+<script src="/assets/js/404.js"></script>
+
+
+</body>
+</html>

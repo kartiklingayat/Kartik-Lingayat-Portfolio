@@ -1,0 +1,101 @@
+[
+ 
+  {
+    "name": "Weather App",
+    "desc": "Native android app built using Java, XML and Volley dependencies. Provides weather forecast.",
+    "image": "weatherlyandroid",
+    "category": "android",
+    "links": {
+      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "code": "https://github.com/jigar-sable/weatherly-android"
+    }
+  },
+  {
+    "name": " Age Calculator",
+    "desc": "Age Calculate",
+    "image": "instagrammern",
+    "category": "mern",
+    "links": {
+      "view": "https://kartiklingayat.github.io/Age-Calculator-App/",
+      "code": "https://github.com/kartiklingayat/Age-Calculator-App.git"
+    }
+  },
+  {
+    "name": "Flappy Bird Game",
+    "desc": "Flappy Bird Game",
+    "image": "flipkartmern",
+    "category": "mern",
+    "links": {
+      "view": "https://kartiklingayat.github.io/Flappy-Bird-Game/",
+      "code": "https://github.com/kartiklingayat/Flappy-Bird-Game.git"
+    }
+  },
+  {
+    "name": "Weather App",
+    "desc": "Weather App",
+    "image": "resumegen",
+    "category": "mern",
+    "links": {
+      "view": "https://kartiklingayat.github.io/KartikWeatherApp/",
+      "code": "https://github.com/kartiklingayat/KartikWeatherApp.git"
+    }
+  },
+  {
+    "name": "Music---Player",
+    "desc": "Music---Player",
+    "image": "reactprojects",
+    "category": "mern",
+    "links": {
+      "view": "https://kartiklingayat.github.io/Music---Player/",
+      "code": "https://github.com/kartiklingayat/Music---Player.git"
+    }
+  },
+  {
+    "name": "Kartik.GPT",
+    "desc": "KartikGPT",
+    "image": "flipkartphp",
+    "category": "lamp",
+    "links": {
+      "view": "https://kartikgpt.netlify.app/index.html",
+      "code": "https://github.com/kartiklingayat/Kartik-GPT.git"
+    }
+  },
+ 
+  {
+    "name": "Portfolio Website1",
+    "desc": "Portfolio Website",
+    "image": "webuiclones",
+    "category": "mern",
+    "links": {
+      "view": "https://kartikportfoliowebsite.netlify.app/",
+      "code": "https://github.com/kartiklingayat/PersonalWebsite-.git"
+    }
+  },
+  {
+    "name": "Portfolio Website2",
+    "desc": "Portfolio Website",
+    "image": "cryptotracker",
+    "category": "mern",
+    "links": {
+      "view": "https://kartiklingayat.github.io/Personal-Website/",
+      "code": "https://github.com/kartiklingayat/Personal-Website.git"
+    }
+  },
+
+
+  
+ 
+  {
+    "name": "Development Course",
+    "desc": "Development Course",
+    "image": "tsfbank",
+    "category": "lamp",
+    "links": {
+      "view": "https://kartiklingayat.github.io/Development-Course/",
+      "code": "https://github.com/kartiklingayat/Development-Course.git"
+    }
+  }
+
+  
+
+]
