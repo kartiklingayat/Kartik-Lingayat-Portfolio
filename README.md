@@ -1,2 +1,3 @@
-![Uploading portfolio.png…]()
+
 # Kartik-Lingayat-Portfolio
+<img width="953" alt="portfolio" src="https://github.com/user-attachments/assets/2e728141-0aa4-41f5-9e24-b49082b79b65" />
